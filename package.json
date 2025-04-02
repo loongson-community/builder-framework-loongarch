@@ -1,0 +1,14 @@
+{
+  "name": "framework-allinone",
+  "title": "LoongArch All-in-One",
+  "description": "LoongArch all-in-one support framework",
+  "keywords": [
+    "framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loongson-community/framework-allinone.git"
+  },
+  "version": "1.0.0",
+  "homepage": "https://www.loongson.cn"
+}
