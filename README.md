@@ -1,4 +1,4 @@
-builder-framework-loongarch-allinone
+builder-framework-loongarch
 ===
 
 LoongArch all-in-one support framework.
